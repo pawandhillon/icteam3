@@ -1,4 +1,5 @@
 <?php
+    remove_action('wp_head', 'wp_generator');
 /**
  * Twenty Fourteen functions and definitions
  *
